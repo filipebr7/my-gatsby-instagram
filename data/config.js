@@ -18,14 +18,14 @@ module.exports = {
   social: {
     // tells the Instagram API the username to get posts from. 
     // If the url is `https://www.instagram.com/natgeotravel`, your username is `natgeotravel`.
-    instagram: 'natgeotravel', 
+    instagram: '23947096', 
     // Optional
     twitter: '@NatGeoTravel',
   },
   socialLinks: {
     // Complete URL verison of `social.instagram`.
     instagram: 'https://www.instagram.com/natgeotravel',
-    // Optional
+    // Optional 23947096
     twitter: 'https://twitter.com/NatGeoTravel',
   },
   // If applicable, your Google Analytics crawl ID.
